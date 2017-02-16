@@ -139,6 +139,7 @@ adjective <- c(
   "sweet",
   "sweetest",
   "swell",
+  "talented",
   "terrific",
   "tiptop",
   "top-notch",
